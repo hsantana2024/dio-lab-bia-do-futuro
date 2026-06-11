@@ -1,44 +1,89 @@
-# Pitch (3 minutos)
+Pitch – Edu Financeiro AI
+1. O Problema (30 segundos)
 
-> [!TIP]
-> Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
- 
-## Roteiro Sugerido
+Olá, meu nome é [Seu Nome] e vou apresentar o Edu Financeiro AI.
 
-### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
+Hoje, muitas pessoas possuem dificuldade para controlar suas finanças pessoais. Frequentemente elas não sabem para onde seu dinheiro está indo, têm dificuldade em identificar gastos excessivos, acompanhar metas financeiras e tomar decisões conscientes sobre investimentos.
 
-[Sua descrição aqui]
+Além disso, a maioria das ferramentas financeiras apenas mostra números e gráficos, sem oferecer explicações ou orientações personalizadas.
 
-### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
+Como consequência, muitas pessoas acabam gastando mais do que deveriam, deixando de poupar e comprometendo sua saúde financeira.
 
-[Sua descrição aqui]
+2. A Solução (1 minuto)
 
-### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
+Para resolver esse problema, desenvolvemos o Edu Financeiro AI, um agente financeiro inteligente que atua como um assistente virtual especializado em educação financeira.
 
-[Descreva o que será mostrado]
+O agente utiliza Inteligência Artificial Generativa combinada com uma base de conhecimento composta por:
 
-### 4. Diferencial e Impacto (30 seg)
-> Por que essa solução é inovadora e qual é o impacto dela na sociedade?
+Histórico de transações;
+Perfil do investidor;
+Metas financeiras;
+Produtos financeiros;
+Histórico de atendimento;
+Regras de negócio e segurança.
 
-[Sua descrição aqui]
+Com essas informações, o Edu Financeiro AI consegue:
 
----
+✓ Analisar receitas e despesas;
 
-## Checklist do Pitch
+✓ Identificar padrões de consumo;
 
-- [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
-- [ ] Solução demonstrada na prática
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
+✓ Detectar gastos incomuns ou suspeitos;
 
----
+✓ Acompanhar metas financeiras;
 
-## Link do Vídeo
+✓ Calcular indicadores financeiros;
 
-> Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
+✓ Sugerir oportunidades de economia;
 
-[Link do vídeo]
+✓ Recomendar produtos compatíveis com o perfil do investidor.
+
+Além disso, o sistema foi projetado para evitar alucinações, respondendo apenas com base nos dados disponíveis e informando quando não possui informações suficientes.
+
+3. Demonstração (1 minuto)
+
+Agora vou mostrar o agente em funcionamento.
+
+Primeiro, realizo uma pergunta simples:
+
+"Quanto gastei com alimentação este mês?"
+
+O agente consulta as transações do cliente, calcula os gastos e apresenta uma análise detalhada.
+
+Em seguida, pergunto:
+
+"Existe alguma transação suspeita?"
+
+O sistema identifica movimentações fora do padrão histórico e gera um alerta preventivo.
+
+Depois solicito:
+
+"Qual investimento você recomenda para mim?"
+
+O agente consulta automaticamente o perfil do investidor e sugere apenas produtos compatíveis com seu nível de risco.
+
+Por fim, realizo uma pergunta fora do escopo:
+
+"Qual a previsão do tempo para amanhã?"
+
+O agente informa corretamente que é especializado em finanças e evita responder algo que não está em sua base de conhecimento.
+
+Isso demonstra segurança, confiabilidade e redução de alucinações.
+
+4. Diferencial e Impacto (30 segundos)
+
+O grande diferencial do Edu Financeiro AI é combinar Inteligência Artificial Generativa com análise financeira baseada em dados reais do usuário.
+
+Diferentemente de chatbots genéricos, ele:
+
+Não inventa informações;
+Explica seus cálculos;
+Personaliza recomendações;
+Detecta anomalias financeiras;
+Mantém rastreabilidade das informações utilizadas.
+
+O impacto esperado é promover educação financeira acessível, ajudar pessoas a tomarem melhores decisões financeiras e contribuir para uma gestão mais consciente do dinheiro.
+
+O Edu Financeiro AI transforma dados financeiros em conhecimento prático e acionável para qualquer pessoa.
+
+Muito obrigado!
