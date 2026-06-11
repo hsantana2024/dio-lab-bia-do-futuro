@@ -1,7 +1,7 @@
 Pitch – Edu Financeiro AI
 1. O Problema (30 segundos)
 
-Olá, meu nome é [Humberto Araujo de Santana] e vou apresentar o Edu Financeiro AI.
+Olá, meu nome é Humberto Araujo de Santana e vou apresentar o Edu Financeiro AI.
 
 Hoje, muitas pessoas possuem dificuldade para controlar suas finanças pessoais. Frequentemente elas não sabem para onde seu dinheiro está indo, têm dificuldade em identificar gastos excessivos, acompanhar metas financeiras e tomar decisões conscientes sobre investimentos.
 
